@@ -52,9 +52,9 @@ https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration
 ### [Author: Anonymous course participant 2](AML_MP1_Anon2.ipynb)
 
 ### Questions:
-1.When did the OECD countries that spend most on healthcare per capita in 2019 had vaccinated (with one dose) at least 70% of the population?
-2.Does lower corruption in country correlates to percent of people vaccinated? (Europe)
-3.Can we predict when certain percent of population is vaccinated in France?
+1. When did the OECD countries that spend most on healthcare per capita in 2019 had vaccinated (with one dose) at least 70% of the population?
+2. Does lower corruption in country correlates to percent of people vaccinated? (Europe)
+3. Can we predict when certain percent of population is vaccinated in France?
 
 ### Additional data sources:
 * OECD https://stats.oecd.org/Index.aspx?ThemeTreeId=9#
